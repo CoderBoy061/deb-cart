@@ -1,0 +1,13 @@
+
+.home{
+    max-width: 1500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.home_row{
+    display: flex;
+    gap: 5vw;
+    z-index: 1;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}

@@ -1,0 +1,34 @@
+.admin_product {
+  display: flex;
+  align-items: center;
+  margin-left: 15vw;
+  margin-right: 10vw;
+}
+.admin_panel {
+  /* background-color: yellow; */
+  background-color: hotpink;
+  border-radius: 1em;
+  padding: 5em 2em;
+  margin-top: 5vh;
+  margin-left: 15vw;
+  margin-right: 15vw;
+}
+.order_details {
+  margin-left: 3vw;
+  margin-top: -15vh;
+}
+.user {
+  margin-left: 27.8vw;
+  margin-top: -15vh;
+}
+.order_details > p {
+  font-size: 1.1rem;
+  font-family: serif;
+  color: white;
+}
+.user > p {
+  font-size: 1.1rem;
+  color: white;
+  font-family: serif;
+}
+

@@ -1,0 +1,9 @@
+.user_from {
+  width: 40vw;
+  padding: 3em 3em;
+  /* background-color: red; */
+  margin-left: 30vw;
+  margin-top: 5vh;
+  box-shadow: 5px 5px 5px 5px rgba(174, 145, 243, 0.5);
+  border-radius: 1em;
+}
